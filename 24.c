@@ -19,7 +19,7 @@ Date: 20th September, 2024
 #include <sys/msg.h>
 
 int main() {
-    key_t key = ftok("progfile", 65);
+    int key = ftok("progfile", 65);
     int msgid = msgget(key, 0666 | IPC_CREAT);
 
     if (msgid == -1) {
