@@ -1,4 +1,13 @@
-
+/*
+============================================================================
+Name : 1c.c
+Author : Sakina Baranwala
+Description : WWrite a separate program (for each time domain) to set a interval timer in 10sec and
+10micro second
+c. ITIMER_PROF
+Date: 19th September, 2024
+============================================================================
+*/
 
 #include <stdio.h>
 #include <signal.h>
@@ -29,9 +38,49 @@ int main() {
     }
 
     while (1) {
-        pause();
     }
 
     return 0;
 }
 
+
+/*Output:
+ *
+ *
+ * sakina@sakina-VivoBook-ASUSLaptop-X515EA-X515EA:~/handsOn2$ ./1c
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+Profiling timer expired.
+*/
