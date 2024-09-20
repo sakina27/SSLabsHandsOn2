@@ -1,11 +1,11 @@
 /*
-============================================================================
+=================================================================================================
 Name : 8e.c
 Author : Sakina Baranwala
 Description : Write a separate program using signal system call to catch the following signals.
-e. SIGALRM (use setitimer system call)
+              e. SIGALRM (use setitimer system call)
 Date: 19th September, 2024
-============================================================================
+=================================================================================================
 */
 
 

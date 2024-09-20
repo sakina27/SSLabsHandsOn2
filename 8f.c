@@ -1,11 +1,11 @@
 /*
-============================================================================
+===============================================================================================
 Name : 8f.c
 Author : Sakina Baranwala
 Description : Write a separate program using signal system call to catch the following signals.
-f. SIGVTALRM (use setitimer system call)
+              f. SIGVTALRM (use setitimer system call)
 Date: 19th September, 2024
-============================================================================
+===============================================================================================
 */
 
 

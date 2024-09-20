@@ -1,11 +1,11 @@
 /*
-============================================================================
+=================================================================================================
 Name : 8d.c
 Author : Sakina Baranwala
 Description : Write a separate program using signal system call to catch the following signals.
-d. SIGALRM (use alarm system call)
+              d. SIGALRM (use alarm system call)
 Date: 19th September, 2024
-============================================================================
+=================================================================================================
 */
 
 
