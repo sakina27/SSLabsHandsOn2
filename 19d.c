@@ -3,7 +3,7 @@
 Name : 19d.c
 Author : Sakina Baranwala
 Description : Create a FIFO file by
-c. mknod system call
+              c. mknod system call
 Date: 19th September, 2024
 ============================================================================
 */

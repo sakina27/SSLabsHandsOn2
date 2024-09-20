@@ -3,7 +3,7 @@
 Name : 19e.c
 Author : Sakina Baranwala
 Description : Create a FIFO file by
-e. mkfifo library function
+              e. mkfifo library function
 Date: 19th September, 2024
 ============================================================================
 */

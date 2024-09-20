@@ -3,9 +3,9 @@
 Name : 19abc.c
 Author : Sakina Baranwala
 Description : Create a FIFO file by
-a. mknod command
-b. mkfifo command
-c. use strace command to find out, which command (mknod or mkfifo) is better.
+              a. mknod command
+              b. mkfifo command
+              c. use strace command to find out, which command (mknod or mkfifo) is better.
 Date: 19th September, 2024
 ============================================================================
 */
