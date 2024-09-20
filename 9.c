@@ -1,11 +1,10 @@
 /*
-============================================================================
+===================================================================================================================================
 Name : 9.c
 Author : Sakina Baranwala
-Description : Write a program to ignore a SIGINT signal then reset the default action of the SIGINT
-signal - Use signal system call.
+Description : Write a program to ignore a SIGINT signal then reset the default action of the SIGINT signal - Use signal system call.
 Date: 19th September, 2024
-============================================================================
+====================================================================================================================================
 */
 
 
