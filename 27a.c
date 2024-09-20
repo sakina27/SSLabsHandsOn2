@@ -3,7 +3,7 @@
 Name : 27a.c
 Author : Sakina Baranwala
 Description : Write a program to receive messages from the message queue.
-a. with 0 as a flag
+              a. with 0 as a flag
 Date: 20th September, 2024
 ============================================================================
 */

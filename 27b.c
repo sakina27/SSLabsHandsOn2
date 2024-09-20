@@ -3,7 +3,7 @@
 Name : 27b.c
 Author : Sakina Baranwala
 Description : Write a program to receive messages from the message queue.
-b. with IPC_NOWAIT as a flag
+              b. with IPC_NOWAIT as a flag
 Date: 20th September, 2024
 ============================================================================
 */
