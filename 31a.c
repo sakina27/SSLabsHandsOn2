@@ -3,7 +3,7 @@
 Name : 31a.c
 Author : Sakina Baranwala
 Description : Write a program to create a semaphore and initialize value to the semaphore.
-a. create a binary semaphore
+              a. create a binary semaphore
 Date: 20th September, 2024
 ============================================================================
 */
