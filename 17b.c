@@ -3,7 +3,7 @@
 Name : 17b.c
 Author : Sakina Baranwala
 Description : Write a program to execute ls -l | wc.
-b. use dup2
+              b. use dup2
 Date: 19th September, 2024
 ============================================================================
 */

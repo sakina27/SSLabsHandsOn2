@@ -3,7 +3,7 @@
 Name : 17b.c
 Author : Sakina Baranwala
 Description : Write a program to execute ls -l | wc.
-c. use fcntl
+              c. use fcntl
 Date: 19th September, 2024
 ============================================================================
 */

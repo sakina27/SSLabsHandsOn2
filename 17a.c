@@ -3,7 +3,7 @@
 Name : 17a.c
 Author : Sakina Baranwala
 Description : Write a program to execute ls -l | wc.
-a. use dup
+              a. use dup
 Date: 19th September, 2024
 ============================================================================
 */
