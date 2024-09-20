@@ -2,9 +2,9 @@
 ============================================================================
 Name : 1c.c
 Author : Sakina Baranwala
-Description : WWrite a separate program (for each time domain) to set a interval timer in 10sec and
-10micro second
-c. ITIMER_PROF
+Description : Write a separate program (for each time domain) to set a interval timer in 10sec and
+              10micro second
+              c. ITIMER_PROF
 Date: 19th September, 2024
 ============================================================================
 */

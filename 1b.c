@@ -2,9 +2,9 @@
 ============================================================================
 Name : 1b.c
 Author : Sakina Baranwala
-Description : 1. Write a separate program (for each time domain) to set a interval timer in 10sec and
-10micro second
-b. ITIMER_VIRTUAL 
+Description : Write a separate program (for each time domain) to set a interval timer in 10sec and
+              10micro second
+              b. ITIMER_VIRTUAL 
 Date: 17th September, 2024
 ============================================================================
 */
