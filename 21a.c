@@ -60,14 +60,12 @@ int main() {
 /*Output:
  *
  * sakina@sakina-VivoBook-ASUSLaptop-X515EA-X515EA:~/handsOn2$ ./21a
-You: Hi terminal 2!
-You: This message is from terminal 1
-Received: Hi Terminal 1!
+You: Hi Terminal 1!
+Received: Hi Terminal 2!
 
-You: Sending message to terminal 2
-Received: This message is from terminal 2
+You: How are you doing Terminal 2?
+Received: I am doing fine, how are you terminal 1?
 
-You: sending message from terminal 1
-You:
-Received: Sending message from terminal 2
+You: I am also fine, okay bye
+Received: bye
 */
